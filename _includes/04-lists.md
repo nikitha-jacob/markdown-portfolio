@@ -2,5 +2,5 @@
 * Blue
 * Green
 * Yellow
-* Black
-* White
+* **Black**
+* _White_
